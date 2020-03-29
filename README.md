@@ -1,6 +1,6 @@
 # COVID19_Project1
 Scrape data from CDC website to build a reproducible daily report.
-# Has a YouTube Video as support 
+# Has a YouTube Video, to Explain R Code
 First video on COVID-19 report automation
 
 ## Project Question
